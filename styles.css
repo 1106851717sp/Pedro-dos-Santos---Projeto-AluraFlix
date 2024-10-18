@@ -1,0 +1,121 @@
+body {
+    color: rgb(0, 88, 168);
+    background: rgb(0, 255, 255);
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+
+header {
+    border-bottom: solid 2px rgb(255, 0, 255);
+    padding: 20px;
+    font-family: "Londrina Sketch", sans-serif;
+    font-size: 52px;
+    color: rgb(255, 0, 255);
+}
+
+.chamada {
+    background: rgb(241, 85, 44);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    font-family: "Kaushan Script", cursive;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada img {
+    height: 315px;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.categoria h2 {
+    color: rgb(255, 255, 255);
+}
+
+.categoria-musicas {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+
+.categoria-musicas img {
+    opacity: 0.3;
+    height: 200px;
+}
+
+.categoria-musicas img:hover {
+    opacity: 1.0;
+    border: 3px solid rgb(0, 0, 255);
+}
+
+.categoria {
+    font-family: "Kaushan Script", cursive;
+    background: rgb(0, 255, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+}
+
+.categoria-qqq {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+
+.categoria-qqq img {
+    opacity: 0.3;
+    height: 200px;
+}
+
+.categoria-qqq img:hover {
+    opacity: 1.0;
+    border: 3px solid rgb(255, 0, 255);
+}
+
+.categoriaqqq {
+    font-family: "Kaushan Script", cursive;
+    background: rgb(225, 255, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+h4 {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+h5 {
+    font-size: 35px;
+    padding-left: 20px;
+}
+
+h6 {
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+.final {
+    font-family: "Poppins", sans-serif;
+}
+
+.insta img {
+    height: 80px;
+    padding-right: 20px;
+}
