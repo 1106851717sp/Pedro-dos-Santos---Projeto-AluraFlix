@@ -15,7 +15,7 @@ header {
 }
 
 .chamada {
-    background: rgb(241, 85, 44);
+    background-image: linear-gradient(to top, #0000ff 0%, #00ffff 100%);
     padding-bottom: 80px;
     padding-top: 80px;
     font-family: "Kaushan Script", cursive;
@@ -34,6 +34,7 @@ header {
 
 h1 {
     font-size: 40px;
+    color: rgb(255, 0, 0)
 }
 
 p {
@@ -62,7 +63,7 @@ p {
 
 .categoria {
     font-family: "Kaushan Script", cursive;
-    background: rgb(0, 255, 0);
+    background-image: linear-gradient(to right, #43e97b 0%, #385bf9 100%);
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
@@ -90,7 +91,7 @@ h3 {
 
 .categoriaqqq {
     font-family: "Kaushan Script", cursive;
-    background: rgb(225, 255, 0);
+    background-image: linear-gradient(to right, #ff2063 0%, #ffda09 100%);
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
