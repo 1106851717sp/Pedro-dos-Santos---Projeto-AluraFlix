@@ -15,7 +15,7 @@ header {
 }
 
 .chamada {
-    background-image: linear-gradient(to top, #00ffff 0%, #0000ff 100%);
+    background-image: linear-gradient(to top, #0000ff 0%, #00ffff 100%);
     padding-bottom: 80px;
     padding-top: 80px;
     font-family: "Kaushan Script", cursive;
